@@ -1,5 +1,5 @@
 # Hi, I'm Oskar!
-I am an Automation and Robotics student passionate about bridging the gap between hardware and software. My technical interests span across digital logic design (FPGA/Verilog), embedded systems.
+I am an Automation and Robotics student passionate about bridging the gap between hardware and software. My technical interests span across digital logic design (FPGA/Verilog), embedded systems and AI/ML.
 
 ###  Featured Projects
 #### 1. [FPGA & Digital Design Portfolio](https://github.com/OskarJung/FPGA_projects)
